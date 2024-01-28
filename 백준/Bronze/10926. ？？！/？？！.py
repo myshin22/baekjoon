@@ -1,0 +1,3 @@
+already = input()
+
+print(already + "??!")
